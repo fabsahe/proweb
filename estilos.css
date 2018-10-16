@@ -9,6 +9,12 @@ h1 {
 	margin: 0;
 	padding: 0;
 }
+a {
+	color: #0a923a;
+}
+a:hover {
+	color: #26c25d;
+}
 .barra-verde {
 	width: 100%;
 	height: 2em;
@@ -22,4 +28,7 @@ h1 {
 }
 .nombre {
 	color: #47ab61;
+}
+.info {
+	text-align: justify;
 }
