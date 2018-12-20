@@ -200,7 +200,7 @@ window.onload = function() {
         ganador = 2;
         return true;
       }
-      if( pcap1 == 1 && pcap2 == 1 ) {
+      if( pcap1 == 11 && pcap2 == 11 ) {
         ganador = 0;
         return true;
       }
